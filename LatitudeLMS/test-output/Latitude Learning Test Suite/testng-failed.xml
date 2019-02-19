@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Latitude Learning Test Suite]">
+  <test name="Latitude Test(failed)">
+    <classes>
+      <class name="qa.TestCases.AddPositionPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="clickOnAddPosition"/>
+        </methods>
+      </class> <!-- qa.TestCases.AddPositionPageTest -->
+    </classes>
+  </test> <!-- Latitude Test(failed) -->
+</suite> <!-- Failed suite [Latitude Learning Test Suite] -->
